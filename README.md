@@ -1,3 +1,3 @@
 # Gildred-Montnimey
 Portfolio
-Worl examples
+Work examples
